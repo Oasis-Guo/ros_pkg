@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 git clone -b jade-devel https://github.com/ros/common_msgs.git
+git clone -b jade-devel https://github.com/ros-planning/navigation_msgs.git
 git clone -b master https://github.com/rst-tu-dortmund/costmap_converter.git
 git clone -b  indigo-devel  https://github.com/ros-visualization/interactive_markers.git
 git clone -b kinetic-devel  https://github.com/ros-perception/perception_pcl.git 
